@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: linear-gradient(to bottom, rgb(42, 42, 155), rgb(31, 31, 194));
+    min-height: 100vh;
+  
+}
+main{
+    text-align: center;
+    padding-top: 20%;
+}
+.valor_1{
+    margin-bottom: 15px;
+    height: 20px;
+    width: 100px;
+}
+.valor_2{
+    height: 20px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+.soma{
+    margin-right: 10px;
+    height: 20px;
+}
+.subtracao{
+    margin-right: 10px;
+    height: 20px;
+}
+.multiplicacao{
+    margin-right: 10px;
+    height: 20px;
+}
+.divisao{
+    height: 20px;
+}
